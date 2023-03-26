@@ -31,7 +31,7 @@
   <b>2020</b>
   </summary>
   <ul>
-  <li><a href="https://github.com/ummagohil/Tweakemoji-icons">tweakiemoji npm package</a></li>
+  <li><a href="https://github.com/ummagohil/Tweakemoji-icons">tweakemoji npm package</a></li>
   <li><a href="https://github.com/ummagohil/Reading-App-Web">reading app</a></li>
    <li><a href="https://github.com/ummagohil/Running-App-Web">running app [web]</a></li>
    <li><a href="https://github.com/ummagohil/Running-App">running app [mobile]</a></li>
