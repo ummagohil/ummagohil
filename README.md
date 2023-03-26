@@ -3,7 +3,7 @@
   <b>Current Projects [private]</b>
   </summary>
   <ul>
-    <li>payments app</li>
+    <li>payments app (stripe)</li>
     <li>chrome extension</li>
     <li>drag + drop</li>
     <li>nutrition dashboard</li>
