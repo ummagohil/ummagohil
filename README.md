@@ -15,7 +15,7 @@
 
 <details>
   <summary>
-  <b>2021/2022</b>
+  <b>2022/2023</b>
   </summary>
   <ul>
     <li><a href="https://github.com/ummagohil/Music-App">music app</a></li>
