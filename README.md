@@ -5,7 +5,7 @@
   <ul>
     <li>payments app (stripe)</li>
     <li>chrome extension</li>
-    <li>drag + drop</li>
+    <li><a href="https://github.com/ummagohil/Drag-Drop">drag + drop</a></li>
     <li>nutrition dashboard</li>
     <li>home workout</li>
     <li>book club</li>
