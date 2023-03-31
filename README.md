@@ -1,6 +1,6 @@
 <details>
   <summary>
-  <b>Current Projects [private]</b>
+  <b>Current Projects</b>
   </summary>
   <ul>
     <li>payments app (stripe)</li>
