@@ -3,7 +3,7 @@
   <b>Current Projects</b>
   </summary>
   <ul>
-    <li>payments app (stripe)</li>
+    <li><a href="https://github.com/ummagohil/Payments-App">payments app (stripe)</a></li>
     <li>chrome extension</li>
     <li><a href="https://github.com/ummagohil/Drag-Drop">drag + drop</a></li>
     <li>nutrition dashboard</li>
