@@ -6,7 +6,7 @@
     <li><a href="https://github.com/ummagohil/Payments-App">payments app</a></li>
     <li><a href="https://github.com/ummagohil/Drag-Drop">drag + drop</a></li>
     <li><a href="https://github.com/ummagohil/Nutrition-Dashboard">nutrition dashboard</a></li>
-    <li>chrome extension</li>
+    <li><a href="https://github.com/ummagohil/Chrome-Extension">chrome extension</a></li>
     <li>book club</li>
     </details>
   </ul>
