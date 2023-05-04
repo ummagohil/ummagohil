@@ -3,12 +3,21 @@
   <b>Current Projects</b>
   </summary>
   <ul>
-    <li><a href="https://github.com/ummagohil/Payments-App">payments app</a></li>
-    <li><a href="https://github.com/ummagohil/Drag-Drop">drag + drop</a></li>
-    <li><a href="https://github.com/ummagohil/Nutrition-Dashboard">nutrition dashboard</a></li>
-    <li><a href="https://github.com/ummagohil/Chrome-Extension">chrome extension</a></li>
     <li>book club</li>
     <li>mini react series</li>
+    </details>
+  </ul>
+ </details>
+
+<details>
+  <summary>
+  <b>2023</b>
+  </summary>
+  <ul>
+    <li><a href="https://github.com/ummagohil/Drag-Drop">drag + drop</a></li>
+    <li><a href="https://github.com/ummagohil/Payments-App">payments app</a></li>
+    <li><a href="https://github.com/ummagohil/Chrome-Extension">chrome extension</a></li>
+    <li><a href="https://github.com/ummagohil/Nutrition-Dashboard">nutrition dashboard</a></li>
     </details>
   </ul>
  </details>
