@@ -8,6 +8,7 @@
     <li><a href="https://github.com/ummagohil/Nutrition-Dashboard">nutrition dashboard</a></li>
     <li><a href="https://github.com/ummagohil/Chrome-Extension">chrome extension</a></li>
     <li>book club</li>
+    <li>mini react series</li>
     </details>
   </ul>
  </details>
