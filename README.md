@@ -3,7 +3,6 @@
   <b>Current Projects</b>
   </summary>
   <ul>
-    <li>book club</li>
     <li>mini react series</li>
     </details>
   </ul>
