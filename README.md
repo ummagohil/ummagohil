@@ -15,7 +15,7 @@
   <ul>
     <li><a href="https://github.com/ummagohil/Productivity-Journal">productivity journal</a></li>
     <li><a href="https://github.com/ummagohil/Pack-Your-Bags">pack your bags</a></li>
-    <li><a href="https://github.com/ummagohil/Buy-a-Home">bug a home</a></li>
+    <li><a href="https://github.com/ummagohil/Buy-a-Home">buy a home</a></li>
     </details>
   </ul>
  </details>
