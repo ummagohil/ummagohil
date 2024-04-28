@@ -3,7 +3,19 @@
   <b>Current Projects</b>
   </summary>
   <ul>
-    <li>mini react series</li>
+    <li>booking system</li>
+    </details>
+  </ul>
+ </details>
+
+ <details>
+  <summary>
+  <b>2024</b>
+  </summary>
+  <ul>
+    <li><a href="https://github.com/ummagohil/Productivity-Journal">productivity journal</a></li>
+    <li><a href="https://github.com/ummagohil/Pack-Your-Bags">pack your bags</a></li>
+    <li><a href="https://github.com/ummagohil/Buy-a-Home">bug a home</a></li>
     </details>
   </ul>
  </details>
