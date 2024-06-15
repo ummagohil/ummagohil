@@ -3,9 +3,9 @@
   <b>Current Projects</b>
   </summary>
   <ul>
-    <li>booking system</li>
-    <li>personal ai finance</li>
-    <li>gamification learning</li>
+    <li><a href="https://github.com/ummagohil/Booking-System">booking system</a></li>
+    <li><a href="https://github.com/ummagohil/personal-ai-finance">personal ai finance</a></li>
+    <li><a href="https://github.com/ummagohil/gamification-learning">gamification learning</a></li>
     </details>
   </ul>
  </details>
