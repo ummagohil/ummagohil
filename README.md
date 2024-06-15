@@ -4,6 +4,8 @@
   </summary>
   <ul>
     <li>booking system</li>
+    <li>personal ai finance</li>
+    <li>gamification learning</li>
     </details>
   </ul>
  </details>
