@@ -4,6 +4,7 @@
   </summary>
   <ul>
     <li><a href="https://github.com/ummagohil/personal-ai-finance">personal ai finance</a></li>
+    <li><a href="https://github.com/ummagohil/face-filter">face filter</li>
     </details>
   </ul>
  </details>
