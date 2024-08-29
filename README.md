@@ -18,6 +18,7 @@
     <li><a href="https://github.com/ummagohil/Pack-Your-Bags">pack your bags</a></li>
     <li><a href="https://github.com/ummagohil/Buy-a-Home">buy a home</a></li>
     <li><a href="https://github.com/ummagohil/aws-dev-assoc-exam">aws developer associate exam practice</a></li>
+    <li><a href="https://github.com/ummagohil/Bubble-CLI"> bubble cli</li>
     </details>
   </ul>
  </details>
