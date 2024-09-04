@@ -3,7 +3,7 @@
   <b>Current Projects</b>
   </summary>
   <ul>
-    
+    <details>
     <li><a href="https://github.com/ummagohil/face-filter">face filter</li>
     </details>
   </ul>
