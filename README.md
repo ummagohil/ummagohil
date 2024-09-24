@@ -74,6 +74,31 @@
   </ul>
  </details>
 
+ <details>
+  <summary>
+  <b>2018</b>
+  </summary>
+  <ul>
+  <li><a href="https://github.com/ummagohil/Portfolio">Portfolio</a></li>
+    <li><a href="https://github.com/ummagohil/Testing-Feeds">Testing Feeds</a></li>
+     <li><a href="https://github.com/ummagohil/Restaurant-Reviews">Restaurant Reviews</a></li>
+     <li><a href="https://github.com/ummagohil/Book-App">Book App</a></li>
+      <li><a href="https://github.com/ummagohil/Star-Wars">Star Wars</a></li>
+       <li><a href="https://github.com/ummagohil/Search-Museums">Search Museums</a></li>
+  <li><a href="https://github.com/ummagohil/Input-Form">Input Form</a></li>
+     <li><a href="https://github.com/ummagohil/To-Do-List">To Do List</a></li>
+    <li><a href="https://github.com/ummagohil/Random-Quotes">Random Quotes</a></li>
+    <li><a href="https://github.com/ummagohil/Arcade-Game">Arcade Game</a></li>
+     <li><a href="https://github.com/ummagohil/Card-Game">Card Game</a></li>
+      <li><a href="https://github.com/ummagohil/Spinning-Circle">Spinning Circle</a></li>
+    <li><a href="https://github.com/ummagohil/Pixel-Art">Pixel Art</a></li>
+    <li><a href="https://github.com/ummagohil/Animal">Animal Card</a></li>
+    <li><a href="https://github.com/ummagohil/Bar-Chart">Bar Chart</a></li>
+      <li><a href="https://github.com/ummagohil/React-Bar-Chart">React Bar Chart</a></li>
+      <li><a href="https://github.com/ummagohil/Bitcoin-graph">Bitcoin Graph</a></li>
+  </ul>
+ </details>
+
 
 
 
