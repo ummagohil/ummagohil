@@ -3,7 +3,6 @@
   <b>Current Projects</b>
   </summary>
   <ul>
-    <li><a href="https://github.com/ummagohil/face-filter">face filter</a></li>
     <li><a href="https://github.com/ummagohil/budgeting-tool">budgeting tool</a></li>
     <li><a href="https://github.com/ummagohil/biometrics-in-webapps">biometeric authentication</a></li>
     </details>
