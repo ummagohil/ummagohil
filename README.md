@@ -5,6 +5,8 @@
   <ul>
     <li><a href="https://github.com/ummagohil/budgeting-tool">budgeting tool</a></li>
     <li><a href="https://github.com/ummagohil/biometrics-in-webapps">biometeric authentication</a></li>
+    <li><a href="https://github.com/ummagohil/face-recognition">face recognition</a></li>
+    <li><a href="https://github.com/ummagohil/Gamified-Algos">gamified algorithms and data structures</a></li>
     </details>
   </ul>
  </details>
@@ -19,7 +21,6 @@
     <li><a href="https://github.com/ummagohil/Buy-a-Home">buy a home</a></li>
     <li><a href="https://github.com/ummagohil/Bubble-CLI"> bubble cli</li>
     <li><a href="https://github.com/ummagohil/personal-ai-finance">personal ai finance</a></li>
-    <li><a href="https://github.com/ummagohil/face-recognition">face recognition</a></li>
     </details>
   </ul>
  </details>
