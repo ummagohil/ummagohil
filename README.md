@@ -6,7 +6,7 @@
     <li><a href="https://github.com/ummagohil/budgeting-tool">budgeting tool</a></li>
     <li><a href="https://github.com/ummagohil/face-recognition">facial recognition</a></li>
     <li><a href="https://github.com/ummagohil/biometrics-in-webapps">biometeric authentication</a></li>
-    <li><a href="https://github.com/ummagohil/Gamified-Algos">gamified algorithms and data structures</a></li>
+    <li><a href="https://github.com/ummagohil/gamified-algos-ds">gamified algorithms and data structures</a></li>
     </details>
   </ul>
  </details>
