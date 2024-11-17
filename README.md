@@ -3,7 +3,6 @@
   <b>Current Projects</b>
   </summary>
   <ul>
-    <li><a href="https://github.com/ummagohil/budgeting-tool">budgeting tool</a></li>
     <li><a href="https://github.com/ummagohil/face-recognition">facial recognition</a></li>
     <li><a href="https://github.com/ummagohil/biometrics-in-webapps">biometeric authentication</a></li>
     <li><a href="https://github.com/ummagohil/gamified-algos-ds">gamified algorithms and data structures</a></li>
@@ -21,6 +20,7 @@
     <li><a href="https://github.com/ummagohil/Buy-a-Home">buy a home</a></li>
     <li><a href="https://github.com/ummagohil/Bubble-CLI"> bubble cli</li>
     <li><a href="https://github.com/ummagohil/personal-ai-finance">personal ai finance</a></li>
+    <li><a href="https://github.com/ummagohil/budgeting-tool">budgeting tool</a></li>
     </details>
   </ul>
  </details>
