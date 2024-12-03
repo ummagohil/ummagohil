@@ -16,6 +16,7 @@
   </summary>
   <ul>
     <li><a href="https://github.com/ummagohil/aws-dev-assoc-exam-notes">aws developer associate</a></li>
+    <li><a href="https://github.com/ummagohil/aws-machine-learning">aws machine learning</a></li>
     <li><a href="https://github.com/ummagohil/hugging-face-notes">hugging face</a></li>
     </details>
   </ul>
