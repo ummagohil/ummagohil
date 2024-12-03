@@ -12,6 +12,17 @@
 
  <details>
   <summary>
+  <b>Current Notes/Learning</b>
+  </summary>
+  <ul>
+    <li><a href="https://github.com/ummagohil/aws-dev-assoc-exam-notes">aws developer associate</a></li>
+    <li><a href="https://github.com/ummagohil/hugging-face-notes">hugging face</a></li>
+    </details>
+  </ul>
+ </details>
+
+ <details>
+  <summary>
   <b>2024</b>
   </summary>
   <ul>
