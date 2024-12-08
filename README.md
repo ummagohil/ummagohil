@@ -6,6 +6,7 @@
     <li><a href="https://github.com/ummagohil/face-recognition">facial recognition</a></li>
     <li><a href="https://github.com/ummagohil/gamified-algos-ds">gamified algorithms and data structures</a></li>
     <li><a href="https://github.com/ummagohil/understand-the-underline">understand the underline</li>
+      <li><a href="https://github.com/ummagohil/x-ray-vision">x-ray vision</li>
     </details>
   </ul>
  </details>
