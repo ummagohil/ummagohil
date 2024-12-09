@@ -14,8 +14,6 @@
   </summary>
   <ul>
     <li><a href="https://github.com/ummagohil/aws-dev-assoc-exam-notes">aws developer associate</a></li>
-    <li><a href="https://github.com/ummagohil/aws-machine-learning">aws machine learning associate</a></li>
-    <li><a href="https://github.com/ummagohil/hugging-face-notes">hugging face</a></li>
     </details>
   </ul>
  </details>
@@ -28,6 +26,8 @@
     <li><a href="https://github.com/ummagohil/face-recognition">facial recognition</a></li>
     <li><a href="https://github.com/ummagohil/understand-the-underline">understand the underline</li>
       <li><a href="https://github.com/ummagohil/x-ray-vision">x-ray vision</li>
+      <li><a href="https://github.com/ummagohil/aws-machine-learning">aws machine learning associate</a></li>
+    <li><a href="https://github.com/ummagohil/hugging-face-notes">hugging face</a></li>
     </details>
   </ul>
  </details>
