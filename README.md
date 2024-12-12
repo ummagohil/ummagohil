@@ -28,7 +28,7 @@
     <li><a href="https://github.com/ummagohil/x-ray-vision">x-ray vision</li>
     <li><a href="https://github.com/ummagohil/make-an-orchestra">make an orchestra</li>
     <li><a href="https://github.com/ummagohil/ligatures-in-languages">ligatures in languages</li>
-    <li><a href="https://github.com/ummagohil/misinformation-detector">misinformation/disinformation tool</li>
+    <li><a href="https://github.com/ummagohil/misinformation-detector">misinformation/disinformation detector</li>
     <li><a href="https://github.com/ummagohil/hugging-face-notes">hugging face</a></li>
     <li><a href="https://github.com/ummagohil/aws-machine-learning">aws machine learning associate</a></li>
     </details>
