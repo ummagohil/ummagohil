@@ -24,11 +24,12 @@
   </summary>
   <ul>
     <li><a href="https://github.com/ummagohil/face-recognition">facial recognition</a></li>
-    <li><a href="https://github.com/ummagohil/understand-the-underline">understand the underline</li>
-    <li><a href="https://github.com/ummagohil/x-ray-vision">x-ray vision</li>
-    <li><a href="https://github.com/ummagohil/make-an-orchestra">make an orchestra</li>
-    <li><a href="https://github.com/ummagohil/ligatures-in-languages">ligatures in languages</li>
-    <li><a href="https://github.com/ummagohil/misinformation-detector">misinformation/disinformation detector</li>
+    <li><a href="https://github.com/ummagohil/understand-the-underline">understand the underline</a></li>
+    <li><a href="https://github.com/ummagohil/x-ray-vision">x-ray vision</a></li>
+    <li><a href="https://github.com/ummagohil/make-an-orchestra">make an orchestra</a></li>
+    <li><a href="https://github.com/ummagohil/ligatures-in-languages">ligatures in languages</a></li>
+    <li><a href="https://github.com/ummagohil/misinformation-detector">misinformation/disinformation detector</a></li>
+    <li><a href="https://github.com/ummagohil/drug-side-effect-predictor">drug side effect predictor</a</li>
     <li><a href="https://github.com/ummagohil/hugging-face-notes">hugging face</a></li>
     <li><a href="https://github.com/ummagohil/aws-machine-learning">aws machine learning associate</a></li>
     </details>
