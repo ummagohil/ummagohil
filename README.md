@@ -26,7 +26,7 @@
     <li><a href="https://github.com/ummagohil/ligatures-in-languages">ligatures in languages</a></li>
     <li><a href="https://github.com/ummagohil/misinformation-detector">misinformation/disinformation detector</a></li>
     <li><a href="https://github.com/ummagohil/drug-side-effect-predictor">drug side effect predictor</a></li>
-    <li><a href="https://github.com/ummagohil/clinical-trial-matcher">clinicial trial matcher</a></li>
+    <li><a href="https://github.com/ummagohil/clinical-trial-matcher">clinical trial matcher</a></li>
   </ul>
     
   <p>image</p>
