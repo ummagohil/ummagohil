@@ -1,21 +1,4 @@
-<details>
-  <summary>
-  <b>Current Projects</b>
-  </summary>
-  <ul>
-    <li><a href="https://github.com/ummagohil/gamified-algos-ds">gamified algorithms and data structures</a></li>
-    </details>
-  </ul>
- </details>
- <details>
-  <summary>
-  <b>Current Notes/Learning</b>
-  </summary>
-  <ul>
-    <li><a href="https://github.com/ummagohil/aws-dev-assoc-exam-notes">aws developer associate</a></li>
-    </details>
-  </ul>
- </details>
+
 <details>
   <summary>
   <b>2025</b>
@@ -41,6 +24,7 @@
   <ul>
     <li><a href="https://github.com/ummagohil/hugging-face-notes">hugging face</a></li>
     <li><a href="https://github.com/ummagohil/aws-machine-learning">aws machine learning associate</a></li>
+     <li><a href="https://github.com/ummagohil/aws-dev-assoc-exam-notes">aws developer associate</a></li>
     </details>
   </ul>
  </details>
@@ -57,6 +41,7 @@
     <li><a href="https://github.com/ummagohil/personal-ai-finance">personal ai finance</a></li>
     <li><a href="https://github.com/ummagohil/budgeting-tool">budgeting tool</a></li>
     <li><a href="https://github.com/ummagohil/biometrics-auth">biometeric authentication</a></li>
+    <li><a href="https://github.com/ummagohil/gamified-algos-ds">gamified algorithms and data structures</a></li>
     </details>
   </ul>
  </details>
