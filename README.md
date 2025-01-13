@@ -26,7 +26,7 @@
     <li><a href="https://github.com/ummagohil/ligatures-in-languages">ligatures in languages</a></li>
     <li><a href="https://github.com/ummagohil/misinformation-detector">misinformation/disinformation detector</a></li>
     <li><a href="https://github.com/ummagohil/drug-side-effect-predictor">drug side effect predictor</a></li>
-    <li><a href="https://github.com/ummagohil/clinical-trial-matcher">clincial trial matcher</a></li>
+    <li><a href="https://github.com/ummagohil/clinical-trial-matcher">clinicial trial matcher</a></li>
   </ul>
     
   <p>image</p>
@@ -35,6 +35,7 @@
     <li><a href="https://github.com/ummagohil/understand-the-underline">understand the underline</a></li>
     <li><a href="https://github.com/ummagohil/x-ray-vision">x-ray vision</a></li>
     <li><a href="https://github.com/ummagohil/plant-disease-detector">plant disease detector</a></li>
+    <li><a href="https://github.com/ummagohil/wall-colour-spaces">wall colour paint shade detector</a></li>
   </ul>
   <p>other</p>
   <ul>
