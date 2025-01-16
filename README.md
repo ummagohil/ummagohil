@@ -14,7 +14,7 @@
     
   <p>image</p>
   <ul>
-    <li><a href="https://github.com/ummagohil/face-recognition">facial recognition</a></li>
+    <li><a href="https://github.com/ummagohil/emotional-recognition">emotional recognition</a></li>
     <li><a href="https://github.com/ummagohil/understand-the-underline">understand the underline</a></li>
     <li><a href="https://github.com/ummagohil/x-ray-vision">x-ray vision</a></li>
     <li><a href="https://github.com/ummagohil/plant-disease-detector">plant disease detector</a></li>
