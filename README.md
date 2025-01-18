@@ -1,25 +1,27 @@
-
+<details>
+  <summary>
+  <b>currently</b>
+  </summary>
+  <ul>
+    <li><a href="https://github.com/ummagohil/ligatures-in-languages">ligatures in languages</a></li>
+    <li><a href="https://github.com/ummagohil/emotional-recognition">emotional recognition</a></li>
+    <li><a href="https://github.com/ummagohil/understand-the-underline">understand the underline</a></li>
+    <li><a href="https://github.com/ummagohil/wall-colour-spaces">wall colour paint shade detector</a></li>
+  </ul>
+ </details>
 <details>
   <summary>
   <b>2025</b>
   </summary>
-  <p>text</p>
   <ul>
     <li><a href="https://github.com/ummagohil/make-an-orchestra">make an orchestra</a></li>
-    <li><a href="https://github.com/ummagohil/ligatures-in-languages">ligatures in languages</a></li>
     <li><a href="https://github.com/ummagohil/misinformation-detector">misinformation/disinformation detector</a></li>
     <li><a href="https://github.com/ummagohil/drug-side-effect-predictor">drug side effect predictor</a></li>
     <li><a href="https://github.com/ummagohil/clinical-trial-matcher">clinical trial matcher</a></li>
-  </ul>
-    
-  <p>image</p>
-  <ul>
-    <li><a href="https://github.com/ummagohil/emotional-recognition">emotional recognition</a></li>
-    <li><a href="https://github.com/ummagohil/understand-the-underline">understand the underline</a></li>
     <li><a href="https://github.com/ummagohil/x-ray-vision">x-ray vision</a></li>
     <li><a href="https://github.com/ummagohil/plant-disease-detector">plant disease detector</a></li>
-    <li><a href="https://github.com/ummagohil/wall-colour-spaces">wall colour paint shade detector</a></li>
   </ul>
+  
   <p>other</p>
   <ul>
     <li><a href="https://github.com/ummagohil/hugging-face-notes">hugging face</a></li>
