@@ -5,15 +5,12 @@
   <ul>
     <li><a href="https://github.com/ummagohil/ligatures-in-languages">ligatures in languages</a></li>
     <li><a href="https://github.com/ummagohil/emotional-recognition">emotional recognition</a></li>
-    <li><a href="https://github.com/ummagohil/understand-the-underline">understand the underline</a></li>
-    <li><a href="https://github.com/ummagohil/wall-colour-spaces">wall colour paint shade detector</a></li>
     <li><a href="https://github.com/ummagohil/aws-dev-assoc-exam-notes">aws developer associate</a></li>
-    <li><a href="https://github.com/ummagohil/your-name-pls">your name, pls</a></li>
   </ul>
  </details>
 <details>
   <summary>
-  <b>2025</b>
+  <b>to do</b>
   </summary>
   <ul>
     <li><a href="https://github.com/ummagohil/make-an-orchestra">make an orchestra</a></li>
@@ -22,16 +19,20 @@
     <li><a href="https://github.com/ummagohil/clinical-trial-matcher">clinical trial matcher</a></li>
     <li><a href="https://github.com/ummagohil/x-ray-vision">x-ray vision</a></li>
     <li><a href="https://github.com/ummagohil/plant-disease-detector">plant disease detector</a></li>
-  </ul>
-  
-  <p>other</p>
-  <ul>
+    <li><a href="https://github.com/ummagohil/understand-the-underline">understand the underline</a></li>
+    <li><a href="https://github.com/ummagohil/wall-colour-spaces">wall colour paint shade detector</a></li>
     <li><a href="https://github.com/ummagohil/hugging-face-notes">hugging face</a></li>
     <li><a href="https://github.com/ummagohil/aws-machine-learning">aws machine learning associate</a></li>
-    </details>
   </ul>
  </details>
- 
+ <details>
+  <summary>
+  <b>2025</b>
+  </summary>
+  <ul>
+    <li><a href="https://github.com/ummagohil/your-name-pls">your name, pls</a></li>
+  </ul>
+ </details>
  <details>
   <summary>
   <b>2024</b>
