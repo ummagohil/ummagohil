@@ -10,7 +10,7 @@
  </details>
 <details>
   <summary>
-  <b>to do</b>
+  <b>ideas</b>
   </summary>
   <ul>
     <li><a href="https://github.com/ummagohil/make-an-orchestra">make an orchestra</a></li>
