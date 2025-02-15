@@ -7,6 +7,7 @@
     <li><a href="https://github.com/ummagohil/understand-the-underline">understand the underline</a></li>
     <li><a href="https://github.com/ummagohil/wall-colour-spaces">wall colour paint shade detector</a></li>
     <li><a href="https://github.com/ummagohil/clinical-trial-matcher">clinical trial matcher</a></li>
+     <li><a href="https://github.com/ummagohil/high-frequency-trading-simulator">high frequency trading simulator</a></li>
   </ul>
  </details>
 
