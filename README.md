@@ -6,7 +6,17 @@
     <li><a href="https://github.com/ummagohil/emotional-recognition">emotional recognition</a></li>
     <li><a href="https://github.com/ummagohil/understand-the-underline">understand the underline</a></li>
     <li><a href="https://github.com/ummagohil/wall-colour-spaces">wall colour paint shade detector</a></li>
-        <li><a href="https://github.com/ummagohil/clinical-trial-matcher">clinical trial matcher</a></li>
+    <li><a href="https://github.com/ummagohil/clinical-trial-matcher">clinical trial matcher</a></li>
+  </ul>
+ </details>
+
+ <details>
+  <summary>
+  <b>certs</b>
+  </summary>
+  <ul>
+    <li><a href="https://github.com/ummagohil/aws-dev-assoc-exam-notes">aws developer associate</a>
+    <li><a href="https://github.com/ummagohil/aws-machine-learning">aws machine learning associate</a></li>
   </ul>
  </details>
 
