@@ -17,7 +17,7 @@
     <li><a href="https://github.com/ummagohil/drug-side-effect-predictor">drugs side effects detector</a>*</li>
     <li><a href="https://github.com/ummagohil/make-an-orchestra">make an orchestra</a>*</li>
   </ul>
-  * in progress/to be started
+  * <b>in progress/to be started</b>
   <details>
   <summary>
   <b>certs</b>
