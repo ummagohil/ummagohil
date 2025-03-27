@@ -10,12 +10,7 @@
     <li><a href="https://github.com/ummagohil/emotional-recognition">emotional recognition</a>*</li>
     <li><a href="https://github.com/ummagohil/understand-the-underline">understand the underline</a>*</li>
     <li><a href="https://github.com/ummagohil/wall-colour-spaces">wall colour paint shade detector</a>*</li>
-    <li><a href="https://github.com/ummagohil/clinical-trial-matcher">clinical trial matcher</a>*</li>
-    <li><a href="https://github.com/ummagohil/high-frequency-trading-simulator">high frequency trading simulator</a>*</li>
-    <li><a href="https://github.com/ummagohil/X-ray-vision">x-ray vision</a>*</li>
-    <li><a href="https://github.com/ummagohil/plant-disease-detector">plant disease detector</a>*</li>
-    <li><a href="https://github.com/ummagohil/drug-side-effect-predictor">drugs side effects detector</a>*</li>
-    <li><a href="https://github.com/ummagohil/make-an-orchestra">make an orchestra</a>*</li>
+    
   </ul>
   * <b>in progress/to be started</b>
   <details>
@@ -27,7 +22,22 @@
     <li><a href="https://github.com/ummagohil/aws-machine-learning">aws machine learning associate</a></li>
   </ul>
  </details>
+
+  <details>
+  <summary>
+  <b>future ideas/projects</b>
+  </summary>
+  <ul>
+   <li><a href="https://github.com/ummagohil/clinical-trial-matcher">clinical trial matcher</a></li>
+    <li><a href="https://github.com/ummagohil/high-frequency-trading-simulator">high frequency trading simulator</a></li>
+    <li><a href="https://github.com/ummagohil/X-ray-vision">x-ray vision</a></li>
+    <li><a href="https://github.com/ummagohil/plant-disease-detector">plant disease detector</a></li>
+    <li><a href="https://github.com/ummagohil/drug-side-effect-predictor">drugs side effects detector</a></li>
+    <li><a href="https://github.com/ummagohil/make-an-orchestra">make an orchestra</a></li>
+  </ul>
  </details>
+ </details>
+ 
  <details>
   <summary>
   <b>2024</b>
@@ -41,7 +51,6 @@
     <li><a href="https://github.com/ummagohil/budgeting-tool">budgeting tool</a></li>
     <li><a href="https://github.com/ummagohil/biometrics-auth">biometeric authentication</a></li>
     <li><a href="https://github.com/ummagohil/gamified-algos-ds">gamified algorithms and data structures</a></li>
-    </details>
   </ul>
  </details>
 
@@ -55,7 +64,6 @@
     <li><a href="https://github.com/ummagohil/Payments-App">payments app</a></li>
     <li><a href="https://github.com/ummagohil/Chrome-Extension">chrome extension</a></li>
     <li><a href="https://github.com/ummagohil/Nutrition-Dashboard">nutrition dashboard</a></li>
-    </details>
   </ul>
  </details>
 
