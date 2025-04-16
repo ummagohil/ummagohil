@@ -9,7 +9,7 @@
     <li><a href="https://github.com/ummagohil/ligatures-in-languages">ligatures in languages</a></li>
     <li><a href="https://github.com/ummagohil/emotional-recognition">emotional recognition</a></li>
     <li><a href="https://github.com/ummagohil/understand-the-underline">understand the underline</a>*</li>
-    <li><a href="https://github.com/ummagohil/wall-colour-spaces">wall colour paint shade detector</a>*</li>
+    <li><a href="https://github.com/ummagohil/wall-colour-spaces">wall colour paint shade detector</a></li>
     
   </ul>
   * <b>in progress/to be started</b>
