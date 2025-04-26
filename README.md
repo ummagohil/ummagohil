@@ -1,4 +1,18 @@
-
+ <details>
+  <summary>
+  <b>future ideas/projects</b>
+  </summary>
+  <ul>
+   <li><a href="https://github.com/ummagohil/clinical-trial-matcher">clinical trial matcher</a></li>
+    <li><a href="https://github.com/ummagohil/high-frequency-trading-simulator">high frequency trading simulator</a></li>
+    <li><a href="https://github.com/ummagohil/drug-side-effect-predictor">drugs side effects detector</a></li>
+    
+   <li><a href="https://github.com/ummagohil/X-ray-vision">x-ray vision</a></li>
+    <li><a href="https://github.com/ummagohil/plant-disease-detector">plant disease detector</a></li>
+  </ul>
+ </details>
+ </details>
+ 
 
  <details>
   <summary>
@@ -13,30 +27,8 @@
     <li><a href="https://github.com/ummagohil/understand-the-underline">understand the underline</a>*</li>
   </ul>
   * <b>in progress/to be started</b>
-  <details>
-  <summary>
-  <b>certs</b>
-  </summary>
-  <ul>
-    <li><a href="https://github.com/ummagohil/aws-dev-assoc-exam-notes">aws developer associate</a>
-    <li><a href="https://github.com/ummagohil/aws-machine-learning">aws machine learning associate</a></li>
-  </ul>
- </details>
 
-  <details>
-  <summary>
-  <b>future ideas/projects</b>
-  </summary>
-  <ul>
-   <li><a href="https://github.com/ummagohil/clinical-trial-matcher">clinical trial matcher</a></li>
-    <li><a href="https://github.com/ummagohil/high-frequency-trading-simulator">high frequency trading simulator</a></li>
-    <li><a href="https://github.com/ummagohil/drug-side-effect-predictor">drugs side effects detector</a></li>
-    
-   <li><a href="https://github.com/ummagohil/X-ray-vision">x-ray vision</a></li>
-    <li><a href="https://github.com/ummagohil/plant-disease-detector">plant disease detector</a></li>
-  </ul>
- </details>
- </details>
+</details>
  
  <details>
   <summary>
