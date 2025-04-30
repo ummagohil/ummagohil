@@ -8,11 +8,9 @@
     <li><a href="https://github.com/ummagohil/drug-side-effect-predictor">drugs side effects detector</a></li>
    <li><a href="https://github.com/ummagohil/X-ray-vision">x-ray vision</a></li>
     <li><a href="https://github.com/ummagohil/plant-disease-detector">plant disease detector</a></li>
+       <li><a href="https://github.com/ummagohil/understand-the-underline">understand the underline</a></li>
   </ul>
  </details>
- </details>
- 
-
  <details>
   <summary>
   <b>2025</b>
@@ -25,10 +23,7 @@
     <li><a href="https://github.com/ummagohil/make-an-orchestra">make an orchestra</a></li>
    <li><a href="https://github.com/ummagohil/molecule-app">molecule 3D view</a></li>
    <li><a href="https://github.com/ummagohil/protein-app">protein 3D view</a></li>
-    <li><a href="https://github.com/ummagohil/understand-the-underline">understand the underline</a>*</li>
   </ul>
-  * <b>in progress/to be started</b>
-
 </details>
  
  <details>
