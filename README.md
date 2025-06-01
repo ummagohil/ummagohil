@@ -12,6 +12,20 @@
  </details>
  <details>
   <summary>
+  <b>animation exploration</b>
+  </summary>
+  <ul>
+   <li><a href="https://github.com/ummagohil/rive-landing-pages">rive</a></li>
+   <li><a href="https://github.com/ummagohil/framer-landing-pages">framer</a></li>
+   <li><a href="https://github.com/ummagohil/spline-landing-pages">spline</a></li>
+    <li><a href="https://github.com/ummagohil/p5js-landing-pages">p5.js</a></li>
+    <li><a href="https://github.com/ummagohil/lottie-landing-pages">lottie</a></li>
+    <li><a href="https://github.com/ummagohil/threejs-landing-pages">three.js</a></li>
+     <li><a href="https://github.com/ummagohil/gsap-landing-pages">gsap</a></li>
+  </ul>
+ </details>
+ <details>
+  <summary>
   <b>2025</b>
   </summary>
   <ul>
