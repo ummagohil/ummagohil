@@ -4,8 +4,7 @@
   </summary>
   <ul>
    <li><a href="https://github.com/ummagohil/X-ray-vision">x-ray vision</a></li>
-    
-      <li><a href="https://github.com/ummagohil/high-frequency-trading-simulator">high frequency trading simulator</a></li>
+    <li><a href="https://github.com/ummagohil/high-frequency-trading-simulator">high frequency trading simulator</a></li>
     <li><a href="https://github.com/ummagohil/drug-side-effect-predictor">drugs side effects detector</a></li>
   </ul>
  </details>
