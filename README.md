@@ -1,22 +1,3 @@
-<details>
-  <summary>
-  <b>future ideas/projects</b>
-  </summary>
-  <ul>
-    <li><a href="https://github.com/ummagohil/high-frequency-trading-simulator">high frequency trading simulator</a></li>
-    
-  </ul>
- </details>
- <details>
-  <summary>
-  <b>animation exploration</b>
-  </summary>
-  <ul>
-   <li><a href="https://github.com/ummagohil/framer-landing-pages">framer</a></li>
-   <li><a href="https://github.com/ummagohil/spline-landing-pages">spline</a></li>
-    <li><a href="https://github.com/ummagohil/lottie-landing-pages">lottie</a></li>
-  </ul>
- </details>
  <details>
   <summary>
   <b>2025</b>
