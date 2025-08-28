@@ -111,6 +111,6 @@
   </ul>
  </details>
 
-
+**Please Note**: no side projects are affiliated with current or past employers
 
 
