@@ -15,6 +15,7 @@
     <li><a href="https://github.com/ummagohil/X-ray-vision">x-ray vision</a></li>
     <li><a href="https://github.com/ummagohil/drug-side-effect-predictor">drugs side effects detector</a></li>
      <li><a href="https://github.com/ummagohil/grade-paper-app">grade paper app</a></li>
+   <li><a href="https://github.com/ummagohil/medi-tracker">medi tracker</a></li>
   </ul>
 </details>
  
