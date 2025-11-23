@@ -17,6 +17,7 @@
     <li><a href="https://github.com/ummagohil/chadwell-surgery">chadwell surgery</a></li>
     <li><a href="https://github.com/ummagohil/grade-paper-app">grade paper app</a></li>
    <li><a href="https://github.com/ummagohil/medi-tracker">medi tracker</a></li>
+   <li><a href="https://github.com/ummagohil/sqe-part-1-simulator">sqe part one simulator</a></li>
   </ul>
 </details>
  
