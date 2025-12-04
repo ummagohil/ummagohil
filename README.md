@@ -19,6 +19,7 @@
    <li><a href="https://github.com/ummagohil/medi-tracker">medi tracker</a></li>
    <li><a href="https://github.com/ummagohil/sqe-part-1-simulator">sqe part one simulator</a></li>
    <li><a href="https://github.com/ummagohil/case-finder">case finder</a></li>
+   <li><a href="https://v0-shaadi-vindaloo-website.vercel.app/">vindaloo weddings</a></li>
   </ul>
 </details>
  
