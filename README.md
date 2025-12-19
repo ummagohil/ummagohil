@@ -1,3 +1,4 @@
+With 10 years since I graduated and 13 years since I started my degree, I've accumlated many technical skills. I've strategised winning moves for an ever changing industry which means I'm constantly learning. Check out my apps to understand my deep technical knowledge which is powerfully blended by business acument. 🤡 
  <details>
   <summary>
   <b>2025</b>
@@ -19,7 +20,6 @@
    <li><a href="https://github.com/ummagohil/medi-tracker">medi tracker</a></li>
    <li><a href="https://github.com/ummagohil/sqe-part-1-simulator">sqe part one simulator</a></li>
    <li><a href="https://github.com/ummagohil/case-finder">case finder</a></li>
-   <li><a href="https://v0-shaadi-vindaloo-website.vercel.app/">vindaloo weddings</a></li>
   </ul>
 </details>
  
