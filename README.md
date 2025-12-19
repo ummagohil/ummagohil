@@ -1,4 +1,4 @@
-With 10 years since I graduated and 13 years since I started my degree, I've accumlated many technical skills. I've strategised winning moves for an ever changing industry which means I'm constantly learning. Check out my apps to understand my deep technical knowledge which is powerfully blended by business acument. 🤡 
+With 10 years since I graduated and 13 years since I started my degree, I've accumlated many technical skills. I've strategised winning moves for an ever changing industry which means I'm constantly learning. Check out my apps to understand my deep technical knowledge which is powerfully blended by business acumen. 🤡 
  <details>
   <summary>
   <b>2025</b>
