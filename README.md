@@ -1,4 +1,9 @@
-
+<details>
+ <summary><b>2026</b></summary>
+ <ul>
+  <li><a href="https://github.com/ummagohil/legal-predictor-info">legal predictor</a></li>
+ </ul>
+</details>
  <details>
   <summary>
   <b>2025</b>
