@@ -2,6 +2,7 @@
  <summary><b>2026</b></summary>
  <ul>
   <li><a href="https://github.com/ummagohil/legal-predictor-info">legal predictor</a></li>
+  <li><a href="https://github.com/ummagohil/GP-Practice-Explorer">GP Practice Explorer</li>
  </ul>
 </details>
  <details>
