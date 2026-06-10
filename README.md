@@ -79,8 +79,8 @@
   <ul>
   <li><a href="https://github.com/ummagohil/Tweakemoji-icons">tweakemoji npm package</a></li>
   <li><a href="https://github.com/ummagohil/Reading-App-Web">reading app</a></li>
-   <li><a href="https://github.com/ummagohil/Running-App-Web">running app [web]</a></li>
-   <li><a href="https://github.com/ummagohil/Running-App">running app [mobile]</a></li>
+   <li><a href="https://github.com/ummagohil/Running-App-Web">running app [web]</a> + designs</li>
+   <li><a href="https://github.com/ummagohil/Running-App">running app [mobile]</a> + designs</li>
    </ul>
  </details>
 
@@ -89,7 +89,7 @@
   <b>2019</b>
   </summary>
   <ul>
-  <li><a href="https://github.com/ummagohil/New-Savings-Dashboard">savings dashboard</a></li>
+  <li><a href="https://github.com/ummagohil/New-Savings-Dashboard">savings dashboard</a> + designs</li>
   <li><a href="https://github.com/ummagohil/Food-Prep-App">food prep app</a></li>
   <li><a href="https://github.com/ummagohil/Kaggle-HousePrices">kaggle: house prices</a></li>
   <li><a href="https://github.com/ummagohil/Kaggle-Titanic">kaggle: titanic</a></li>
