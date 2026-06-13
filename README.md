@@ -126,5 +126,7 @@
   </ul>
  </details>
 
+ **Please note**: many projects are closed source due to ai making web development the wild wild west - please reach out for source code if you believe you could contribute or help
+
 
 
