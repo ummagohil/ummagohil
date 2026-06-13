@@ -5,7 +5,7 @@
   <li><a href="https://github.com/ummagohil/GP-Practice-Explorer">GP surgery explorer</li>
    <li><a href="https://github.com/ummagohil/womens-health-research">women's health research</li>
    <li><a href="https://github.com/ummagohil/sudoku-app">sudoku app</li>
-   <li><a href="https://github.com/ummagohil/">swear word detection</li>
+   <li><a href="https://github.com/ummagohil/swear-word-detection">swear word detection</li>
    <li><a href="https://github.com/ummagohil/">english to gujarati mail box translator</li>
  </ul>
 </details>
