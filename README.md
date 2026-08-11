@@ -5,8 +5,6 @@
   <li><a href="https://github.com/ummagohil/GP-Practice-Explorer">GP surgery explorer</li>
    <li><a href="https://github.com/ummagohil/womens-health-research">women's health research</li>
    <li><a href="https://github.com/ummagohil/sudoku-app">sudoku app</li>
-   <li><a href="https://github.com/ummagohil/swear-word-detection">swear word detection</li>
-   <li><a href="https://github.com/ummagohil/english-to-gujarati-mailbox">english to gujarati mail box translator</li>
  </ul>
 </details>
  <details>
@@ -28,7 +26,6 @@
     <li><a href="https://github.com/ummagohil/wall-colour-spaces">wall colour paint shade detector</a></li>
    <li><a href="https://github.com/ummagohil/grade-paper-app">grade paper app</a></li>
    <li><a href="https://github.com/ummagohil/medi-tracker">medi tracker</a></li>
-   <li><a href="https://github.com/ummagohil/sqe-part-1-simulator">sqe part one simulator</a></li>
    <li><a href="https://github.com/ummagohil/case-finder">case finder</a></li>
   </ul>
 </details>
@@ -45,7 +42,6 @@
     <li><a href="https://github.com/ummagohil/personal-ai-finance">personal ai finance</a></li>
     <li><a href="https://github.com/ummagohil/budgeting-tool">budgeting tool</a></li>
     <li><a href="https://github.com/ummagohil/biometrics-auth">biometeric authentication</a></li>
-    <li><a href="https://github.com/ummagohil/gamified-algos-ds">gamified algorithms and data structures</a></li>
   </ul>
  </details>
 
