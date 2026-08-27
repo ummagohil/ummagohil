@@ -5,6 +5,7 @@
   <li><a href="https://github.com/ummagohil/GP-Practice-Explorer">GP surgery explorer</li>
    <li><a href="https://github.com/ummagohil/womens-health-research">women's health research</li>
    <li><a href="https://github.com/ummagohil/sudoku-app">sudoku app</li>
+    <li><a href="https://github.com/ummagohil/sarcasm-classifier/">sarcasm classifier</a></li>
  </ul>
 </details>
  <details>
