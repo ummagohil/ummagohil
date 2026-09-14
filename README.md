@@ -17,7 +17,6 @@
     <li><a href="https://github.com/ummagohil/ligatures-in-languages">ligatures in languages</a></li>
     <li><a href="https://github.com/ummagohil/emotional-recognition">emotional recognition</a></li>
     <li><a href="https://github.com/ummagohil/make-an-orchestra">make an orchestra</a></li>
-         <li><a href="https://github.com/ummagohil/chadwell-surgery">chadwell heath surgery</a></li>
    <li><a href="https://github.com/ummagohil/understand-the-underline">understand the underline</a></li>
     <li><a href="https://github.com/ummagohil/plant-disease-detector">plant disease detector</a></li>
     <li><a href="https://github.com/ummagohil/X-ray-vision">x-ray vision</a></li>
