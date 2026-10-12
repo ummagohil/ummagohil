@@ -1,15 +1,22 @@
+| Year | Projects | Blog posts |
+|------|----------|------------|
+
 <details>
- <summary><b>2026</b></summary>
- <ul>
-  <li><a href="https://github.com/ummagohil/legal-predictor-info">legal predictor</a></li>
-  <li><a href="https://github.com/ummagohil/GP-Practice-Explorer">GP surgery explorer</li>
-   <li><a href="https://github.com/ummagohil/womens-health-research">women's health research</li>
-   <li><a href="https://github.com/ummagohil/sudoku-app">sudoku app</li>
-    <li><a href="https://github.com/ummagohil/sarcasm-classifier/">sarcasm classifier</a></li>
- </ul>
-</details>
+  <summary><b>other projects</b></summary>
+
+
  <details>
-  <summary>
+  <summary><b>2026</b></summary>
+  <ul>
+   <li><a href="https://github.com/ummagohil/legal-predictor-info">legal predictor</a></li>
+   <li><a href="https://github.com/ummagohil/GP-Practice-Explorer">GP surgery explorer</li>
+    <li><a href="https://github.com/ummagohil/womens-health-research">women's health research</li>
+    <li><a href="https://github.com/ummagohil/sudoku-app">sudoku app</li>
+     <li><a href="https://github.com/ummagohil/sarcasm-classifier/">sarcasm classifier</a></li>
+  </ul>
+ </details>
+  <details>
+   <summary>
   <b>2025</b>
   </summary>
   <ul>
@@ -23,7 +30,7 @@
     <li><a href="https://github.com/ummagohil/drug-side-effect-predictor">drugs side effects detector</a></li>
     <li><a href="https://github.com/ummagohil/wall-colour-spaces">wall colour paint shade detector</a></li>
   </ul>
-</details>
+ </details>
  
  <details>
   <summary>
@@ -92,7 +99,8 @@
   </ul>
  </details>
 
- <details>
+ 
+<details>
   <summary>
   <b>2018</b>
   </summary>
@@ -118,3 +126,5 @@
  </details>
 
 
+
+</details>
