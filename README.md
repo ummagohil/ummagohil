@@ -1,9 +1,15 @@
 | Year | Projects | Blog posts |
 |------|----------|------------|
-|  |  |  |
+|  2026 |test  |test  |
+|  2025 |test  |test  |
+|  2024 |test  |test  |
+|  2023 |test  |test  |
+|  2022 |test  |test  |
+|  2020 |test  |test  |
+|  2019 |test  |test  |
 
 <details>
-  <summary><b>other projects</b></summary>
+  <summary><b>misc.</b></summary>
 
  <details>
   <summary><b>2026</b></summary>
