@@ -3,7 +3,8 @@
  <ul>
   <li><a href="https://github.com/ummagohil/legal-predictor-info">legal predictor</a></li>
    <li><a href="https://github.com/ummagohil/sudoku-app">sudoku app</li>
-    <li><a href="https://github.com/ummagohil/sarcasm-classifier/">sarcasm classifier</a></li>
+   <li><a href="https://github.com/ummagohil/sarcasm-classifier/">sarcasm classifier</a></li>
+    <li><a href="https://github.com/ummagohil/perfect-pitch/">perfect-pitch</a></li>
  </ul>
 </details>
  <details>
