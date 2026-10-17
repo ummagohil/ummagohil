@@ -5,7 +5,7 @@
    <li><a href="https://github.com/ummagohil/sudoku-app">sudoku app</li>
    <li><a href="https://github.com/ummagohil/sarcasm-classifier/">sarcasm classifier</a></li>
     <li><a href="https://github.com/ummagohil/perfect-pitch-app/">perfect-pitch</a></li>
-     <li>...more to come soon</a></li>
+     <li>more to come soon 🚀 🚀 🚀 🚀</a></li>
  </ul>
 </details>
  <details>
@@ -32,7 +32,7 @@
     <li><a href="https://github.com/ummagohil/Pack-Your-Bags">pack your bags</a></li>
     <li><a href="https://github.com/ummagohil/Buy-a-Home">buy a home</a></li>
     <li><a href="https://github.com/ummagohil/Bubble-CLI"> bubble cli</li>
-    <li><a href="https://github.com/ummagohil/budgeting-tool">budgeting tool</a></li>
+    <li><a href="https://githuzb.com/ummagohil/budgeting-tool">budgeting tool</a></li>
     <li><a href="https://github.com/ummagohil/biometrics-auth">biometeric authentication</a></li>
   </ul>
  </details>
