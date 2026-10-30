@@ -5,7 +5,6 @@
    <li><a href="https://github.com/ummagohil/sudoku-app">sudoku app</li>
    <li><a href="https://github.com/ummagohil/sarcasm-classifier/">sarcasm classifier</a></li>
     <li><a href="https://github.com/ummagohil/perfect-pitch-app/">perfect-pitch</a></li>
-     <li>more to come soon 🚀 🚀 🚀 🚀</a></li>
  </ul>
 </details>
  <details>
