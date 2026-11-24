@@ -5,6 +5,7 @@
    <li><a href="https://github.com/ummagohil/sarcasm-classifier/">sarcasm classifier</a></li>
     <li><a href="https://github.com/ummagohil/perfect-pitch-app/">perfect-pitch</a></li>
     <li><a href="https://github.com/ummagohil/kaggle-digit-recognizer/">kaggle: digit recognizer</a></li>
+    <li><a href="https://github.com/ummagohil/kaggle-facial-keypoints-detection/">kaggle: facial keypoints detection</a></li>
  </ul>
 </details>
  <details>
